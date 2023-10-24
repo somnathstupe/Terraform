@@ -1,0 +1,13 @@
+
+Terraform for aws
+
+1. Create s3 bucket and  set versioning
+2. Create virtual private network(vpc)
+3. Internet gateway  and route table
+4. Create a subnet in given vpc
+5. Subnets assosiation to route table
+6. Create security group and specify inbound and outbound traffic
+7. Create efs  file sytem 
+8. create efs mount target resource 
+9. create datasync_location for source and destination  
+10.create datasync task 
